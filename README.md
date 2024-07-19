@@ -15,7 +15,6 @@ There’s a lot I would do differently now, like structure, planning, an oversig
 
 i like to se myself grow as a creator and as a person, and this project actually was the project that actually got me to take the step of learning more and to become a Front End Developer.
 Forever greatful for the opportunity, in spite of all the sleepless nights and them grey hairs. ;)
-![Website Screenshot](img.png)
 
 # PRINTSCREENS
 ### AgeControl before entering the site:<br>
